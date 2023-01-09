@@ -3,6 +3,11 @@ repositório inicial senai
 readme
 senai versionamento
 
+
 lembrei do comando git commit
 
 
+=======
+
+lembrei-me do comando git status
+>>>>>>> tarefa/branch-n1
