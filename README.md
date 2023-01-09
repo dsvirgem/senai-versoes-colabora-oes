@@ -3,3 +3,6 @@ repositório inicial senai
 readme
 senai versionamento
 
+lembrei do comando git commit
+
+
